@@ -2546,8 +2546,8 @@ button.swiper-pagination-bullet {
 }
 
 .c-label {
-  font-size: 1.4rem;
-  line-height: 1em;
+  font-size: 2rem;
+  line-height: 2rem;
   font-family: "neue-haas-unica", sans-serif;
   letter-spacing: 0.04em;
   font-weight: 300;
@@ -2882,7 +2882,7 @@ button.swiper-pagination-bullet {
   padding: 10px;
   border-radius: 10px;
   border: 1px solid #C2C2C2;
-  font-size: 1.1rem;
+  font-size: 1.6rem;
   line-height: 1em;
   letter-spacing: 0.028em;
   font-weight: 300;
@@ -3307,7 +3307,7 @@ button.swiper-pagination-bullet {
 
 .p-home_about_catch_ja {
   margin-top: 24px;
-  font-size: 1.6rem;
+  font-size: 2rem;
   line-height: 1.6em;
   font-weight: 500;
   letter-spacing: 0.1em;
