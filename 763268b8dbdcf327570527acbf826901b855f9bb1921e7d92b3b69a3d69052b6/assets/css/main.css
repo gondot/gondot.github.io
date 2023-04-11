@@ -2551,7 +2551,7 @@ button.alt:hover,
 
 }
 	
-.imgcaption {
+.imgcaption2 {
 	position: relative;
 	padding: 1.5rem 0;
 	font-size: 1.6rem;
@@ -2561,7 +2561,7 @@ button.alt:hover,
 	margin: 2rem 4rem;
 	}
   
-  .imgcaption:after {
+  .imgcaption2:after {
 	position: absolute;
 	bottom: 0;
 	left: 0;
